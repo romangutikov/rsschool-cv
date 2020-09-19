@@ -4,7 +4,7 @@
 * **Phone:** +7-999-924-23-16
 ## **About me:**
 I am a сreative photographer and videomaker studying JavaScript.
-## Skills
+## Skills:
 HTML, CSS, JavaScript, Git, Photoshop.
 ## **Education:**
 * National Research University "Moscow Power Engineering Institute" - Bachelor degree "Electrical Power Systems and Networks".
