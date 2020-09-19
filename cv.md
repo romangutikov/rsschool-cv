@@ -5,7 +5,7 @@
 ## **About me:**
 I am a сreative photographer and videomaker studying JavaScript.
 ## Skills:
-HTML, CSS, JavaScript, Git, Photoshop.
+HTML, CSS, JavaScript, Git, Visual Studio Code, Photoshop.
 ## **Education:**
 * National Research University "Moscow Power Engineering Institute" - Bachelor degree "Electrical Power Systems and Networks".
 * RS School course JS/Front-end.
