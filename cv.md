@@ -1,7 +1,7 @@
 # Roman Gutikov
 ## Contact information:
-* **E-mail:** romangutikov@gmail.com
-* **Phone:** +7-999-924-23-16
+* _E-mail:_ romangutikov@gmail.com
+* _Phone:_ +7-999-924-23-16
 ## **About me:**
 I am a сreative photographer and videomaker studying JavaScript.
 ## Skills:
