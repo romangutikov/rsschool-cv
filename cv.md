@@ -3,7 +3,7 @@
 * **E-mail:** romangutikov@gmail.com
 * **Phone:** +7-999-924-23-16
 ## **About me:**
-I am a Creative photographer and videographer studying JavaScript.
+I am a сreative photographer and videomaker studying JavaScript.
 ## Skills
 HTML, CSS, JavaScript, Git, Photoshop.
 ## **Education:**
