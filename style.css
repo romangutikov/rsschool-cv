@@ -1,0 +1,98 @@
+@font-face {
+    font-family: "Calibri";
+
+    src: url("assets/fonts/Calibri.ttf");
+        }
+  body {
+    margin: 0;
+    padding: 0;
+    color: #5a5a5a;
+    background: #e6e7e9;
+  }
+  a {
+    color: #006699;
+    text-decoration: none;
+  }
+  .wrapper {
+    width: 900px;
+    min-height: 200px;
+    margin: 50px auto;
+    padding: 20px;
+    font-family: "Calibri";
+    background: #ffffff;
+    box-shadow: 20px 20px 40px 0px rgba(0,0,0,0.4);
+  }
+  header {
+    display: flex;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 25px;
+    background: #777777;
+  }
+  .photo {
+    width: 200px;
+  }
+  .photo > img {
+    width: 150px;
+    height: 150px;
+    margin: 25px;
+    border-radius: 70%;
+    object-fit: cover; 
+  }
+  .name-info h1 {
+    margin-bottom: 0;
+    font-size: 35px;
+    color: #ffffff;
+    text-transform: uppercase;
+  }
+  .name-info h2 {
+    margin-top: 5px;
+  
+    font-weight: 400;
+    font-size: 22px;
+    color: #ffffff;
+  }
+  .name-info p {
+    margin-top: 5px;
+  
+    font-weight: 200;
+    font-size: 16px;
+    color: #ebebeb;
+  }
+  .name-info p a {
+    color: #ebebeb;
+    text-decoration: underline;
+  }
+  main {
+    display: flex;
+    width: calc(100% - 40px);
+    height: 100%;
+    padding: 0 20px;
+  }
+  .col1 {
+    width: 100%;
+    padding-right: 50px;
+  }
+  .col1__edu ul {  }
+  main h2 {
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    background: #777777;
+  }
+  .col2 h2 {
+    width: 100%;
+  }
+  .col2 p {
+    text-align: justify;
+  }
+  .col2__skills ul {
+    list-style-type: disc;
+  }
+  footer {
+    width: 900px;
+    margin: 0 auto;
+    font-family: "Calibri";
+    font-size: 16px;
+    text-align: center;
+  }
